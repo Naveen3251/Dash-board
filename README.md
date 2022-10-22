@@ -15,3 +15,6 @@ Data Scientist,Data Architect,Data Analyst,Data Engineer,Data Base developer,Oth
 
 ##Requirements
 1.Install Power BI -https://powerbi.microsoft.com/en-us/
+2.Data set is given for You
+
+This is Beginer friendly project
