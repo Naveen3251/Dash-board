@@ -12,3 +12,6 @@ Favourite programming language for data professionals,Average salary by their Jo
 
 ## Different job title in DataScience in Domain
 Data Scientist,Data Architect,Data Analyst,Data Engineer,Data Base developer,Others.
+
+##Requirements
+1.Install Power BI -https://powerbi.microsoft.com/en-us/
